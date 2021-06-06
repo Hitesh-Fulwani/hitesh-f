@@ -1,0 +1,25 @@
+name: "."
+title: "Hitesh Fulwani"
+description: |
+  Hitesh Fulwani's Personal Website
+output_dir: "docs"
+theme: postcards.css
+
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Blog"
+      href: blog.html
+    - icon: fab fa-twitter
+      href: "https://twitter.com/hiteshf8"
+    - icon: fab fa-instagram
+      href: "https://www.instagram.com/hitesh_fulwani08/"
+    - icon: fab fa-linkedin
+      href: "https://www.linkedin.com/in/hitesh-fulwani-ba5a4119a/"
+    - icon: fab fa-github
+      href: "https://github.com/Hitesh-Fulwani"
+    
+output: distill::distill_article
