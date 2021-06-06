@@ -12,10 +12,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Introduction and Interests: 
 
-Writing introductions and bios can be daunting. Therefore, despite having some experience with writing in varied contexts, one still cannot escape the nervous introspection that is endemic to this process. Perhaps, it might never go away so maybe we better get on with it? 
+Writing introductions and bios can be daunting. Therefore, despite having some experience with writing in varied contexts, one still cannot escape the nervous introspection that is endemic to this process. Perhaps, it might never go away so it is always better to get with it, maybe? 
 
 
-Fortunately enough, I have been able to narrow down the different variety of things which could pique the curiosities of, as complex a species, as ourselves. This includes macro-economics and international finance, data analytics/science predominantly using R, and the application of data analytics to the game of [Cricket]("https://www.youtube.com/watch?v=PjWNj7HzJrY"). Also, I am quite adept at cooking and so have to sometimes play the role of a home chef and post pretty pictures of the stuff I cook. Here's a picture of the butter chicken I recently cooked, and in case, you want to tempt yourself more there are others on my [Instagram]('https://www.instagram.com/hitesh_fulwani08/"). 
+Fortunately enough, I have been able to narrow down the different variety of things which could pique the curiosities of, as complex a species, as ourselves. These include macro-economics and international finance, data analytics/science predominantly using R, and the application of data analytics to the game of [Cricket]("https://www.youtube.com/watch?v=PjWNj7HzJrY"). Also, I am quite adept at cooking and so have to sometimes play the role of a home chef and post pretty pictures of the stuff I cook. Here's a picture of the butter chicken I recently cooked, and in case, you want to tempt yourself more there are others on my [Instagram]('https://www.instagram.com/hitesh_fulwani08/"). 
 
 
 
