@@ -1,10 +1,9 @@
 ---
-title: "welcome"
+title: "Mistakes to avoid while making a website using the distill package in RStudio"
 description: |
-  A short description of the post.
-author:
-  - name: Unknown
-date: 05-15-2021
+ What not to do while making websites using the distill package alongside some resources to get started
+author:  "Hitesh Fulwnani"
+date: 06-08-2021
 output:
   distill::distill_article:
     self_contained: false
@@ -15,8 +14,94 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+                      “It's not exciting if nothing can go wrong.” said Nikolai Lantsov
+                                        ― Leigh Bardugo, King of Scars 
+                                        
+Actually, everything can go wrong and, when that happens, even the breifest of breaks or detachments from the task helps. Building and maintaining a personal website is no easy feat. For more than a year, I have been trying to find a way. It was not until quite recently that I stumbled upon the right set of tools. The wealth of open-source resources which you can use to do amazing things with R is fascinating. As someone from a completely non-programming and non-technical background, using these resources to build the website made the process scandalously easy. Here's a fun gif encapsulating my incredulity at this discovery. 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
+
+
+```{r, echo=FALSE, out.width="40%", out.height="30%", fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/aNvA6so5jAmHSyl92D/giphy.gif")
+```
+But, as a newbie to the world of programming, this process was not without its share of mistakes. Therefore, here's a brief outline of the mistakes that I made, along with the resources I used in the building this website. 
+
+1) ### Not updating my packages:
+
+[This post]("https://alison.rbind.io/blog/2020-12-postcards-distill/") by Dr Allison Hill was the predominant resource I used for building this website. However, if you are a novice in R, then I recommend learning about the programming concept of functions and a little bit about version control. There are plenty of resources you can find on the web to get you started but for recommendations look at the end of this post. 
+
+Coming back to the actual mistake, R has these things called packages which contain functions to simplify our already complicated lives. Apparently, if you fail to regularly update them or, in my case, ignore the actual guidelines of a simple post which is almost screaming at you to update them before starting, things can get pretty messy. I was utterly demoralized to not get the exact output as Dr Allison Hill, after having followed the steps, and gave up on the project for days. It was like following a recipe to cook something amazingly simple, only to find that you messed up the basic ingredients and the output was thoroughly underwhelming. When I actually decided to read the post once again, with the utmost focus I could muster. And, it turned out that I had just assumed that my packages were quite up-to-date, considering that I was a fairly new user of this software. 
+
+So please don't do this.
+
+
+TD;LR: Update your packages if the post says so. No, your confidence doesn't mean s***t, operate with the assumption that they are not updated. 
+
+
+
+
+2) ### The convention of naming images within R Markdown: 
+
+This was not explicitly mentioned in Dr. Hill's post but something I had to figure out through trial and error. While naming image files in R, never use spaces. NEVER! I am just outraged that it took me so long to figure this out. Oh, the amount of self-loathing I could have saved myself. 
+
+
+TL;DR: Always name all the images without any spacing while building your website through distill in R. 
+
+
+
+
+3) ### Do not attempt this before learning the basics of Version Control: 
+
+
+I am sorry for subjecting you to this, but, yes, you will not get far without learning the basics of Version Control. I thought I had encountered everyone who was simultaneously so obnoxious and useful. Alas, GitHub proved me wrong. It is important to learn version control through Git and GitHub, at least a little, bit if you want to publish and maintain your website. There are many fun resources to do this and it is not as bad as it seems initially. 
+
+
+TL;DR: Learn the bascis of Git and GitHub before proceeding to do this. 
+
+
+
+- **Resources**: 
+
+**What are functions? How can you use them in RStudio?**
+
+[DJ Navarro's introductory video about functions and how she uses them to build pretty pictures is a fun way to learn about the incredible power of functions in RStudio.]("https://www.youtube.com/watch?v=zuYMTrxsduI&list=PLRPB0ZzEYegPHHji3tBw2U4yp-DxMrUkB&index=1")
+
+
+
+[A chapter on functions from the book, R for Data Science]("https://r4ds.had.co.nz/functions.html")
+
+
+
+```{r, echo=FALSE, out.width="40%", out.height="30%", fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/l4lR5Tt0C4SWMrqhi/giphy.gif")
+```
+
+As a general practice, I use a key word like "functions" alongside the hash-tag rstats to get the RStudio related resources I might need. The breadth of community resources related to this is extremely rich and you can find almost anything related to RStudio quite easily, on twitter, using this method
+
+
+
+
+
+**Version Control**
+
+Two of my favourite version control references, which make learning this more fun, than it should be are: 
+
+[Coding Train's youtube tutorials]("https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK")
+
+
+[These slides from the course Data Science for Economists by Grant McDermott]("https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.pdf")
+
+
+There are plenty of other RStudio related resources out there which you can easily find by just scouring twitter for a bit. 
+
+
+
+So, I guess, happy learning! 
+
+
+
+
 
 

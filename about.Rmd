@@ -15,11 +15,9 @@ knitr::opts_chunk$set(echo = FALSE)
 Writing introductions and bios can be daunting. Therefore, despite having some experience with writing in varied contexts, one still cannot escape the nervous introspection that is endemic to this process. Perhaps, it might never go away so it is always better to get with it, maybe? 
 
 
-Fortunately enough, I have been able to narrow down the different variety of things which could pique the curiosities of, as complex a species, as ourselves. These include macro-economics and international finance, data analytics/science predominantly using R, and the application of data analytics to the game of [Cricket]("https://www.youtube.com/watch?v=PjWNj7HzJrY"). Also, I am quite adept at cooking and so have to sometimes play the role of a home chef and post pretty pictures of the stuff I cook. Here's a picture of the butter chicken I recently cooked, and in case, you want to tempt yourself more there are others on my [Instagram]('https://www.instagram.com/hitesh_fulwani08/"). 
+Fortunately enough, I have been able to narrow down the different variety of things which could pique the curiosities of, as complex a species, as ourselves. These include macro-economics and international finance, data analytics/science predominantly using R, and the application of data analytics to the game of [Cricket]("https://www.youtube.com/watch?v=PjWNj7HzJrY"). Also, I am quite adept at cooking and so have to sometimes play the role of a home chef and post pretty pictures of the stuff I cook on my [Instagram]('https://www.instagram.com/hitesh_fulwani08/"), in case you are tempted to have a look. 
 
 
-
-![Butter Chicken](C:\Users\Hitesh Fulwani\Desktop\hitesh-f\Butter_Chicken.jpg){width=50%}
 
 
 
@@ -31,7 +29,7 @@ Fortunately enough, I have been able to narrow down the different variety of thi
 I finished my post-graduation in Social Anthropology from the London School of Economics (LSE) in September 2019. Because of the open-ended nature of the discipline and my previous background in Economics, I decided to transition towards the field of Economics/Economic Policy, Data Analytics and Data Science. In fact, this decision was also prompted by the process of writing my master's dissertation about the history of technological transformations since 1979-80. 
 
 
-To make this transition happen, I have devoted ample amount of time towards learning the fundamentals of programming and trying to hone my analytic skills by learning R. However, in large part owing to the pandemic-induced isolation and the attendant issues with anxiety, the process of this transition has gone a bit awry and I find myself lacking in the area of having previous work experience. Until recently, these mental-health issues have somewhat impeded my search for full-time work but things have improved considerably over the course of the past few months.
+To make this transition happen, I have devoted ample amount of time towards learning the fundamentals of programming and trying to hone my analytic skills by learning R. However, in large part owing to the pandemic-induced isolation and the attendant issues with anxiety, the process of this transition has gone a bit awry and I find myself lacking work-experience. Until recently, these mental-health issues have somewhat thwarted my search for full-time work. But things have improved considerably over the course of the last few months.
 
 
 Having gotten clarity regarding the path I want to take within the discipline of Economics, I have recently begun a [Substack]("https://hiteshfulwani.substack.com/") which focuses upon contemporary macro-economic issues and economic history. Consider subscribing if you are intrigued by it. I am currently focusing upon looking for full-time work within data analytics and would eventually want to attain a master's in Economics based on which I can become a journalist/writer covering international economics and finance. 
