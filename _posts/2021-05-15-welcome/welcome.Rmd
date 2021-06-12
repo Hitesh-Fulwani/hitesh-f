@@ -3,7 +3,7 @@ title: "Mistakes to avoid while making a website using the distill package in RS
 description: |
  What not to do while making websites using the distill package alongside some resources to get started
 author:  "Hitesh Fulwnani"
-date: 06-08-2021
+date: 06-12-2021
 output:
   distill::distill_article:
     self_contained: false
