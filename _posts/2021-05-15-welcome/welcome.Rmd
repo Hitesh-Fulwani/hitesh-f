@@ -28,7 +28,7 @@ knitr::include_graphics("https://media.giphy.com/media/aNvA6so5jAmHSyl92D/giphy.
 ```
 But, as a newbie to the world of programming, this process was not without its share of mistakes. Therefore, here's a brief outline of the mistakes that I made, along with the resources I used in the building this website. 
 
-1) ### Not updating my packages:
+1) #### Not updating my packages:
 
 [This post]("https://alison.rbind.io/blog/2020-12-postcards-distill/") by Dr Allison Hill was the predominant resource I used for building this website. However, if you are a novice in R, then I recommend learning about the programming concept of functions and a little bit about version control. There are plenty of resources you can find on the web to get you started but for recommendations look at the end of this post. 
 
@@ -42,7 +42,7 @@ TD;LR: Update your packages if the post says so. No, your confidence doesn't mea
 
 
 
-2) ### The convention of naming images within R Markdown: 
+2) #### The convention of naming images within R Markdown: 
 
 This was not explicitly mentioned in Dr. Hill's post but something I had to figure out through trial and error. While naming image files in R, never use spaces. NEVER! I am just outraged that it took me so long to figure this out. Oh, the amount of self-loathing I could have saved myself. 
 
@@ -52,7 +52,7 @@ TL;DR: Always name all the images without any spacing while building your websit
 
 
 
-3) ### Do not attempt this before learning the basics of Version Control: 
+3) #### Do not attempt this before learning the basics of Version Control: 
 
 
 I am sorry for subjecting you to this, but, yes, you will not get far without learning the basics of Version Control. I thought I had encountered everyone who was simultaneously so obnoxious and useful. Alas, GitHub proved me wrong. It is important to learn version control through Git and GitHub, at least a little, bit if you want to publish and maintain your website. There are many fun resources to do this and it is not as bad as it seems initially. 

@@ -1,6 +1,6 @@
 ---
 title: "Hitesh Fulwani"
-image: "my_image.jpg"
+image: "images/my_image.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/hitesh-fulwani-ba5a4119a/"
