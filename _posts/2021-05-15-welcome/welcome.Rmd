@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
                       “It's not exciting if nothing can go wrong.” said Nikolai Lantsov
                                         ― Leigh Bardugo, King of Scars 
                                         
-Actually, everything can go wrong and, when that happens, even the breifest of breaks or detachments from the task helps. Building and maintaining a personal website is no easy feat. For more than a year, I have been trying to find a way. It was not until quite recently that I stumbled upon the right set of tools. The wealth of open-source resources which you can use to do amazing things with R is fascinating. As someone from a completely non-programming and non-technical background, using these resources to build the website made the process scandalously easy. Here's a fun gif encapsulating my incredulity at this discovery. 
+Actually, everything can go wrong and, when that happens, even the briefest of breaks or detachments from the task helps. Building and maintaining a personal website is no easy feat. For more than a year, I have been trying to find a way. It was not until quite recently that I stumbled upon the right set of tools. The wealth of open-source resources which you can use to do amazing things with R is fascinating. As someone from a completely non-programming and non-technical background, using these resources to build the website made the process scandalously easy. Here's a fun gif encapsulating my incredulity at this discovery. 
 
 
 
