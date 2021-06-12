@@ -66,11 +66,11 @@ TL;DR: Learn the bascis of Git and GitHub before proceeding to do this.
 
 **What are functions? How can you use them in RStudio?**
 
-[DJ Navarro's introductory video about functions and how she uses them to build pretty pictures is a fun way to learn about the incredible power of functions in RStudio.]("https://www.youtube.com/watch?v=zuYMTrxsduI&list=PLRPB0ZzEYegPHHji3tBw2U4yp-DxMrUkB&index=1")
+[DJ Navarro's introductory video about functions and how she uses them to build pretty pictures is a fun way to learn about the incredible power of functions in RStudio.](https://www.youtube.com/watch?v=zuYMTrxsduI&list=PLRPB0ZzEYegPHHji3tBw2U4yp-DxMrUkB&index=1)
 
 
 
-[A chapter on functions from the book, R for Data Science]("https://r4ds.had.co.nz/functions.html")
+[A chapter on functions from the book, R for Data Science](https://r4ds.had.co.nz/functions.html)
 
 
 
@@ -88,10 +88,10 @@ As a general practice, I use a key word like "functions" alongside the hash-tag 
 
 Two of my favourite version control references, which make learning this more fun, than it should be are: 
 
-[Coding Train's youtube tutorials]("https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK")
+[Coding Train's youtube tutorials](https://www.youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)
 
 
-[These slides from the course Data Science for Economists by Grant McDermott]("https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.pdf")
+[These slides from the course Data Science for Economists by Grant McDermott](https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.pdf)
 
 
 There are plenty of other RStudio related resources out there which you can easily find by just scouring twitter for a bit. 
