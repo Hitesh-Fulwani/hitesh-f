@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
   
   
   
-  Here’s a pitchmap depicting the strike-rate of right-arm pacers according to varied line and lengths. 
+  Here’s a pitchmap depicting the strike rate of right-arm pacers according to varied line and lengths. 
 
 
 
