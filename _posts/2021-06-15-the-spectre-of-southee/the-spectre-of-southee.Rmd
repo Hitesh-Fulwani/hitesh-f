@@ -21,6 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
  
  
  
+ 
   Honestly, there is nothing much to be unpacked here, except for how excellent Southee is at setting up right-handed batsmen. He is only the third New Zealand bowler, after Sir Richard Hadlee and Daniel Vettori, to pick up 300 international Test scalps. [Of this total of 309 scalps, 63% have been right-handed batsmen](https://stats.espncricinfo.com/ci/engine/player/232364.html?class=1;template=results;type=bowling;view=dismissal_summary). Considering India’s top five batsmen are all right-handers, the outcome of the game might hinge upon how they play him. Unless India are thinking of changing their batting order somewhat by batting Rishab Pant a bit higher up the order, Southee will be secretly frothing at the prospect of bowling to this line-up. It is not easy to be facing someone in such an absurdly good run of form and [the margins of error are scant](https://sportscafe.in/cricket/articles/2021/jun/05/tim-southee-and-the-intriguing-art-of-setting-up-batsmen-in-whites), if any. Let's have a look at how Southee lays the trap for right-handed batsmen. 
   
   
@@ -81,6 +82,8 @@ Here’s what his childhood coach Rajkumar Sharma had to say about his dismissal
 It doesn’t take a genius to point out that everything outside the off-stump with a Dukes ball in English conditions should not be messed with. But as has been evident recently, Southee has gotten unbelievably good with the old ball. And the Dukes ball doesn’t lose much of its movement unlike the SG and Kookaburra balls. So, be smart about your off-side play. This time pick up a page from Pujara’s textbook and read it to yourself until your whole body complies with not being lured to flash at anything remotely outside the off-stump while facing an in-form outswing bowler with a Dukes ball in his hand. 
 
 India has lost 11 out of the last 14 games they have [played in England](https://www.cricxtasy.com/india-wtc-india-take-cue-from-englands-failings-back-your-instincts-but-also-focus-on-defence/). Throughout these games, the average run-rate, across both the innings, [has been around 3.16 per over](https://www.cricxtasy.com/india-wtc-india-take-cue-from-englands-failings-back-your-instincts-but-also-focus-on-defence/). That is an extremely risky approach in English conditions. Although the losses might not be entirely attributable to this fact alone, there is no doubt about the fact that India losing [a wicket for every 25 runs scored](https://www.cricxtasy.com/india-wtc-india-take-cue-from-englands-failings-back-your-instincts-but-also-focus-on-defence/) during these matches did play a part in the eventual outcome. They would definitely know all of these numbers and it would be interesting to see how the top-order approaches the innings but it would be wise to err on the side of caution. 
+
+
 
 
 
