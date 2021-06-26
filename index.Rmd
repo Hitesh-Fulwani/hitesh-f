@@ -21,7 +21,7 @@ output:
 **Hey There!**
 
 
-Welcome to my personal website! I am an anthropology major currently looking for job roles in the field of Economics and/or Data Analytics. You can find more information about my transition to this field on the About page. I am also passionate about Cricket and sports analytics, Grishaverse books and Economic history. I also have a [Substack](https://hiteshfulwani.substack.com/) up and running, which focuses upon macro-economics and economic history. 
+Welcome to my personal website! I am an anthropology major currently looking for job roles in the field of Data Science/Analytics and/or Economics. You can find more information about my transition to this field on the About page. I am also passionate about cricket and sports analytics, Grishaverse books and Economic history. I also have a [Substack](https://hiteshfulwani.substack.com/) up and running, which focuses upon macro-economics and economic history. 
 
 
 
