@@ -11,11 +11,10 @@ output:
     toc: true
     toc_depth: 3
     self_contained: false
-  categories:
-    - cricket 
-    - southee
-    - sports
+preview: southee_preview.jpg
+   
 ---
+
 
 
 ```{r setup, include=FALSE}
@@ -37,7 +36,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-```{r tweet-from-CricInsights}
+```{r tweet-from-CricInsights, out.width="60%", out.height="60%", fig.align='center'}
 library(tweetrmd)
 library(webshot2)
 
@@ -51,7 +50,7 @@ Now, compare this with the template which Southee used to dismiss [Ollie Pope](h
   
    
   
-```{r tweet-from-CricViz}
+```{r tweet-from-CricViz, echo=FALSE, out.width="80%", out.height="80%", fig.align='center'}
 library(tweetrmd)
 library(webshot2)
 
