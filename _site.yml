@@ -4,7 +4,7 @@ description: |
   Hitesh Fulwani's Personal Website
 output_dir: "docs"
 theme: postcards.css
-
+google_analytics: "G-RFBGCQ4ZJC"
 navbar:
   right:
     - text: "Home"
@@ -21,5 +21,6 @@ navbar:
       href: "https://www.linkedin.com/in/hitesh-fulwani-ba5a4119a/"
     - icon: fab fa-github
       href: "https://github.com/Hitesh-Fulwani"
+    
     
 output: distill::distill_article
