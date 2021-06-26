@@ -5,12 +5,6 @@ description: |
 output_dir: "docs"
 theme: postcards.css
 google_analytics: "G-RFBGCQ4ZJC"
-cookie_consent:
-  style: simple
-  type: express
-  palette: light
-  lang: en
-  cookies_policy: url
 navbar:
   right:
     - text: "Home"

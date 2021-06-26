@@ -2,6 +2,7 @@
 title: "Blog"
 
 listing: "posts" 
+share: [twitter, linkedin]
 
 --- 
 
