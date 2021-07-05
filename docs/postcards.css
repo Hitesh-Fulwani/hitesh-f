@@ -40,7 +40,7 @@ html {
 
 /*-- ARTICLE METADATA --*/
 d-byline {
-  --heading-size:    0.6rem;
+  --heading-size:    0.4rem;
   --heading-color:   rgba(0, 0, 0, 0.5);
   --body-size:       1.0rem;
   --body-color:      rgba(0, 0, 0, 0.8);
@@ -64,10 +64,10 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       20px;
   --text-color:       rgb(0 0 0 / 80%);
-  --text-size:        15px;
-  --hover-color:      rgb(0 0 0 / 80%);
+  --text-size:        18px;
+  --hover-color:      #383838;
   --bkgd-color:       #FFE5B4;
 }
 
@@ -83,6 +83,7 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+
 
 .pull-left {
   float: left;
@@ -144,3 +145,13 @@ d-appendix {
   }
   
 }
+
+
+
+.posts-list .post-preview img {
+  height:50%;
+  display:inline-block;
+  
+}
+
+
