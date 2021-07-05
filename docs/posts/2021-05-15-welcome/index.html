@@ -2160,7 +2160,7 @@ html {
 
 /*-- ARTICLE METADATA --*/
 d-byline {
-  --heading-size:    0.6rem;
+  --heading-size:    0.4rem;
   --heading-color:   rgba(0, 0, 0, 0.5);
   --body-size:       1.0rem;
   --body-color:      rgba(0, 0, 0, 0.8);
@@ -2184,10 +2184,10 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       20px;
   --text-color:       rgb(0 0 0 / 80%);
-  --text-size:        15px;
-  --hover-color:      rgb(0 0 0 / 80%);
+  --text-size:        18px;
+  --hover-color:      #383838;
   --bkgd-color:       #FFE5B4;
 }
 
@@ -2203,6 +2203,7 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+
 
 .pull-left {
   float: left;
@@ -2263,7 +2264,17 @@ d-appendix {
     width: 300px;
   }
   
-}</style>
+}
+
+
+
+.posts-list .post-preview img {
+  height:50%;
+  display:inline-block;
+  
+}
+
+</style>
 <style type="text/css">
 /* base style */
 
@@ -2430,6 +2441,13 @@ d-appendix d-footnote-list a.footnote-backlink {
   <script src="../../site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="../../site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+<script type="text/javascript" cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=G-RFBGCQ4ZJC"></script>
+<script type="text/javascript" cookie-consent="tracking">
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-RFBGCQ4ZJC');
+</script>
 <!--/radix_placeholder_site_in_header-->
 
 
