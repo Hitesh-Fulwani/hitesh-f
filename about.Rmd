@@ -15,7 +15,16 @@ knitr::opts_chunk$set(echo = FALSE)
 Writing introductions and bios can be daunting. Therefore, despite having some experience with writing in varied contexts, it is difficult escape the nervous introspection that is endemic to this process. Perhaps, it might never go away so it is always better to get on with it. 
 
 
-Fortunately enough, I have been able to narrow down the different variety of things which could pique the curiosities of as complex a species as ourselves. In my case, they include data science/analytics, macro-economics and statistical modeling,. If you are interested in finding out more about my transition towards a career in statistics and data science/analytics, refer to the sub-section below. Long story short, the extraordinary breadth of anthropology as a discipline allowed me to nurture my curiosity about the process of rendering raw data into a roadmap presenting varied paths towards better decision-making within organizations. Bland as this may sound it is actually at the heart of what data scientists, at popular brands like Spotify, Bumble, etc. and other organizations, do for improving the quality of user experience for each consumer. 
+Despite having other wide-ranging interests, my core area of focus, since high-school has been Economics. The process which led to the cultivation of this interest has been extremely enriching and cannot be encapsulated here, given the constraints of this space. However, I will suffice it to say that the substantial contributing factor throughout this process has been my interaction with people whose guidance/advise has cultivated a lifelong curiosity about the discipline. This fascination and an innate desire to understand the process of long-term economic growth and development morphed into a decision to major in Anthropology and Development from the London School of Economics (LSE). 
+
+After having gone through the process of finishing my 1-year program at LSE, however, my long-term goals began to change in a slightly different direction than what I had initially imagined. This was in no small part due to the onslaught of the pandemic as I was finishing my course in September 2019. After initially wanting to go ahead with a PhD right after my master’s, I realized that my personal as well as professional interests would be better served through transitioning into a branch of economics where it intersects with finance, and is therefore more quant/mathematics oriented. 
+
+So I am currently aspiring to prepare for multiple MBA aptitude exams within India and want to major in Finance/Business Economics from one of the topmost B-Schools in India. Meanwhile, I have also begun writing my own Substack about macroeconomics and finance, learnt substantial data analytics using the R programming language, and am simultaneously looking for an internship/job roles as an economics or finance related research analyst. While my short-term objective is quite clearly spelled out here, my fundamental long-term objective is to use my problem-solving skills and research capacity to better serve any of the foremost private financial institutions of India. Hopefully, this experience will set me on a path towards a far-fetched dream of clearing the Indian Economic Service (IES) examinations. 
+
+
+
+If you are interested in reading about what I have been up to recently, take a look at my [Substack](https://hiteshfulwani.substack.com/) which focuses upon contemporary macro-economic issues and  a bit of economic history. Consider subscribing, in case it intrigues you. 
+
 
 
 Apart from the above, I am also a gigantic nerd about cooking and am delighted to, sometimes, play the role of a home chef. Occasionally, I also post pretty pictures of the stuff I cook on my [Instagram](https://www.instagram.com/hitesh_fulwani08/). Go have a look, if you are tempted. Just in case you are interested, go follow [this page](https://www.instagram.com/_masalalab/) on Instagram to learn more about cooking through comics. 
@@ -23,24 +32,6 @@ Apart from the above, I am also a gigantic nerd about cooking and am delighted t
 
 
 
-
-
-### Recent Career:
-
-I finished my post-graduation in Social Anthropology from the London School of Economics (LSE) in September 2019 and had set my sights on applying and pursuing a PhD in a related discipline i.e. Economics/Economic History. This was relatively easy because of the open-ended nature of the discipline and my previous background in Economics. But without much luck with getting funded for my PhD and work being hard to come by due to the onslaught of a global pandemic, I decided to deploy my, already well-honed, knowledge of statistics and research methods within social science towards the field of Data Science and Analytics. In fact, this decision was also, in large part, prompted by the process of writing my master's dissertation about the history of technological transformations since 1979-80. Data Science being highly interdisciplinary, it was relatively easy to carry out this transition. Moreover, having already been acquainted with the processes underpinning the vast variety of data that is collected has proven to be a major advantage while making this transition happen.
-
-
-
-It is instinctive to be maudlin and wallow in the misery you have been placed by the circumstances beyond your control. Thankfully, for me, the extremely generous RStudio community on twitter and other social media platforms, ensured that this period was only a brief blip while I wended my way towards understanding the ins-and-outs of a programming language. I have gotten to a point in my programming journey, whereby, using just some functions from within RStudio, I have been able to build a whole static personal website for myself from scratch! As is the case with almost all of the things surrounding us, maintaining their quality is far more difficult than actually building that stuff. This is especially true for personal websites. But thanks to the vast breadth of community resources surrounding the RStudio ecosystem, I have been able to almost master project management and version control through GitHub so seamlessly, that it almost seems scandalously easy.  
-
-
-In a world where [pointless (BS) jobs are proliferating]("https://www.vox.com/2018/5/8/17308744/bullshit-jobs-book-david-graeber-occupy-wall-street-karl-marx"), I was fortunate enough to find work which brings me the creative joy of contributing towards something meaningful in society. But, despite the experimentation paying off for a few months, in large part owing to the pandemic-induced isolation, I found myself to be burnt out after a while. A common symptom of experiencing burn out is to feel [a sense of cynical detachment](https://hbr.org/2021/04/your-burnout-is-unique-your-recovery-will-be-to), which severely inhibits the ability of a person to act and attach oneself to a task, at all. In my case, this symptom got a bit out of hand to a point where I was extremely anxious about even applying for basic job-roles for the fear of either not being selected or, even if selected, not being able to contribute productively to anything. However, since the easing of lockdown restrictions, being able to see friends again and realizing that [this sort of burn-out was a common menace because of persistent lockdowns] (https://hbr.org/2021/02/beyond-burned-out) in 2020, things have started to improve considerably. The process of recovering from this burn-out has helped me get a lot of clarity regarding my career-path. Despite lacking in terms of work-experience, I am quite confident about recovering from this set back and finding full-time work, now that I am actively searching for it.
-
-
-If you are interested in reading about what I have been up to recently, take a look at my [Substack](https://hiteshfulwani.substack.com/) which focuses upon contemporary macro-economic issues and  a bit of economic history. Consider subscribing, in case it intrigues you. 
-
-
-I am currently looking for job-roles within the field of data analytics and/or a quantitative/mixed-methods related research role, especially within, but not limited to, the field of Economics. Apart from my search for full-time roles, I am also consistently practicing improving my data wrangling and visualization skills to set-up my independent practice whereby I create data visualization related products for my clients.
 
 
 
